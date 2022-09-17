@@ -1,0 +1,212 @@
+# depslib dependency file v1.0
+1662554078 source:c:\users\compumarts\desktop\udacity embedded projects\payment application\payment application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"App.h"
+	"Card.h"
+
+1662576410 source:c:\users\compumarts\desktop\udacity embedded projects\payment application\payment application\app.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"Card.h"
+	"Terminal.h"
+	"Server.h"
+	"stdtypes.h"
+
+1662543412 c:\users\compumarts\desktop\udacity embedded projects\payment application\payment application\app.h
+
+1662542860 c:\users\compumarts\desktop\udacity embedded projects\payment application\payment application\card.h
+	"stdtypes.h"
+
+1662571318 c:\users\compumarts\desktop\udacity embedded projects\payment application\payment application\terminal.h
+	"Card.h"
+	"stdtypes.h"
+
+1662541288 c:\users\compumarts\desktop\udacity embedded projects\payment application\payment application\server.h
+	"Card.h"
+	"Terminal.h"
+	"stdtypes.h"
+
+1662495922 c:\users\compumarts\desktop\udacity embedded projects\payment application\payment application\stdtypes.h
+
+1662576410 source:d:\payment application\app.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"Card.h"
+	"Terminal.h"
+	"Server.h"
+	"stdtypes.h"
+
+1662542860 d:\payment application\card.h
+	"stdtypes.h"
+
+1662495922 d:\payment application\stdtypes.h
+
+1662571318 d:\payment application\terminal.h
+	"Card.h"
+	"stdtypes.h"
+
+1662541288 d:\payment application\server.h
+	"Card.h"
+	"Terminal.h"
+	"stdtypes.h"
+
+1662588696 source:d:\payment application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../App/App.h"
+
+1662543412 d:\payment application\app.h
+
+1662588818 source:d:\payment application\card\card.c
+	"Card.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1662588740 d:\payment application\card\card.h
+	"..\App\stdtypes.h"
+
+1662495922 d:\payment application\app\stdtypes.h
+
+1662588246 source:d:\payment application\terminal\terminal.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Terminal.h"
+
+1662588194 d:\payment application\terminal\terminal.h
+	"../Card/Card.h"
+	"../App/stdtypes.h"
+
+1662589329 source:d:\payment application\server\server.c
+	"Server.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1662588144 d:\payment application\server\server.h
+	"../Terminal/Terminal.h"
+	"../App/stdtypes.h"
+
+1662588842 source:d:\payment application\app\app.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"../Card/Card.h"
+	"../Terminal/Terminal.h"
+	"../Server/Server.h"
+	"App.h"
+
+1662543412 source:d:\payment application\app\app.h
+
+1662585730 source:d:\payment application\card\card.h
+	"..\App\stdtypes.h"
+
+1662587063 source:d:\payment application\server\server.h
+	"../Card/Card.h"
+	"../Terminal/Terminal.h"
+	"../App/stdtypes.h"
+
+1662571318 source:d:\payment application\terminal\terminal.h
+	"Card.h"
+	"stdtypes.h"
+
+1662588049 d:\payment application\app\app.h
+
+1662589586 source:d:\payment project\payment application\card\card.c
+	"Card.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1662588740 d:\payment project\payment application\card\card.h
+	"..\App\stdtypes.h"
+
+1662495922 d:\payment project\payment application\app\stdtypes.h
+
+1662588696 source:d:\payment project\payment application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../App/App.h"
+
+1662589718 source:d:\payment project\payment application\app\app.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"../Card/Card.h"
+	"../Terminal/Terminal.h"
+	"../Server/Server.h"
+	"App.h"
+
+1662588194 d:\payment project\payment application\terminal\terminal.h
+	"../Card/Card.h"
+	"../App/stdtypes.h"
+
+1662588144 d:\payment project\payment application\server\server.h
+	"../Terminal/Terminal.h"
+	"../App/stdtypes.h"
+
+1662588049 d:\payment project\payment application\app\app.h
+
+1662589650 source:d:\payment project\payment application\server\server.c
+	"Server.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1662589671 source:d:\payment project\payment application\terminal\terminal.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Terminal.h"
+
+1662589718 source:c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\app\app.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	"../Card/Card.h"
+	"../Terminal/Terminal.h"
+	"../Server/Server.h"
+	"App.h"
+
+1662588740 c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\card\card.h
+	"..\App\stdtypes.h"
+
+1662495922 c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\app\stdtypes.h
+
+1662588194 c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\terminal\terminal.h
+	"../Card/Card.h"
+	"../App/stdtypes.h"
+
+1663087886 c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\server\server.h
+	"../Terminal/Terminal.h"
+	"../App/stdtypes.h"
+
+1662588049 c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\app\app.h
+
+1662589586 source:c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\card\card.c
+	"Card.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1662588696 source:c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../App/App.h"
+
+1663089000 source:c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\server\server.c
+	"Server.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+
+1663084949 source:c:\users\compumarts\desktop\udacity embedded projects\payment project_uploaded version\payment application\terminal\terminal.c
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	"Terminal.h"
+
